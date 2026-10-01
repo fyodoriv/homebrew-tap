@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew formulae for [taskgrind](https://github.com/cbrwizard/taskgrind) — autonomous multi-session grind tool.
+Homebrew formulae for [taskgrind](https://github.com/fyodoriv/taskgrind) — autonomous multi-session grind tool.
 
 ## Install
 
