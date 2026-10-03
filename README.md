@@ -5,20 +5,20 @@ Homebrew formulae for [taskgrind](https://github.com/fyodoriv/taskgrind) — aut
 ## Install
 
 ```bash
-brew tap cbrwizard/tap
+brew tap fyodoriv/tap
 brew install taskgrind
 ```
 
 Or in one command:
 
 ```bash
-brew install cbrwizard/tap/taskgrind
+brew install fyodoriv/tap/taskgrind
 ```
 
 ## Install from HEAD (latest main)
 
 ```bash
-brew install --HEAD cbrwizard/tap/taskgrind
+brew install --HEAD fyodoriv/tap/taskgrind
 ```
 
 ## Update
@@ -32,5 +32,5 @@ brew upgrade taskgrind
 
 ```bash
 brew uninstall taskgrind
-brew untap cbrwizard/tap
+brew untap fyodoriv/tap
 ```
