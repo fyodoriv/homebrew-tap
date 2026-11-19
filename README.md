@@ -1,36 +1,11 @@
-# homebrew-tap
+# fyodoriv/homebrew-tap
 
-Homebrew formulae for [taskgrind](https://github.com/fyodoriv/taskgrind) — autonomous multi-session grind tool.
+No formulae right now.
 
-## Install
+`taskgrind` was removed on 2026-11-18: the repo is archived and its useful parts moved into the `grind` skill in [agentbrew](https://github.com/fyodoriv/agentbrew) (run it with Claude Code `/loop` or `/goal`).
 
-```bash
-brew tap fyodoriv/tap
-brew install taskgrind
-```
-
-Or in one command:
+If you installed it:
 
 ```bash
-brew install fyodoriv/tap/taskgrind
-```
-
-## Install from HEAD (latest main)
-
-```bash
-brew install --HEAD fyodoriv/tap/taskgrind
-```
-
-## Update
-
-```bash
-brew update
-brew upgrade taskgrind
-```
-
-## Uninstall
-
-```bash
-brew uninstall taskgrind
-brew untap fyodoriv/tap
+brew uninstall taskgrind && brew untap fyodoriv/tap
 ```
